@@ -26,6 +26,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -67,10 +68,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="410" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599140506969">
+    <state x="410" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599143342647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="410" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599140506969" />
+    <state x="410" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599143342647" />
     <state x="455" y="85" key="SettingsEditor" timestamp="1599141495180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
